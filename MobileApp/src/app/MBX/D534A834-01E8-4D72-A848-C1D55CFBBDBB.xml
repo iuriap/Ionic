@@ -1,0 +1,53 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="DF254073-43D8-4BC0-AF31-12FC6D8926C5" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="7">
+    <control controlID="C238D317-CE05-456F-A9D6-F8B4DA2D2255" controlTypeID="Image" x="0" y="0" w="360" h="640" zOrder="0">
+      <URL>2012986DEA9041751601B5EB4F97D7A7.jpg</URL>
+    </control>
+    <control controlID="557934E2-1151-4288-B933-ABACCE51B91F" controlTypeID="Circle" x="136" y="44" w="88" h="88" zOrder="1">
+      <color>4294111986</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="7B7EE45F-097C-491A-8E0B-5180F0FFF169" controlTypeID="Shape" x="0" y="20" w="360" h="85" zOrder="2">
+      <color>4294111986</color>
+      <borderColor>4288282470</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B5E9871F-2A10-41EA-AE8D-49CE159F42E2" controlTypeID="Image" x="152" y="23" w="57" h="77" zOrder="3">
+      <URL>E32025FAE63D0E78A0A6B9B2B7099178.png</URL>
+    </control>
+    <control controlID="017704D8-FDB3-4143-90CB-F9F99B27F63D" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="4"/>
+    <control controlID="9A6B7324-AC65-433E-ACBE-1BDFDDE55552" controlTypeID="TextInput" x="20" y="204" w="320" h="39" zOrder="5">
+      <font family="Roboto+Light" displayName="Roboto+Light" postScript="" weightStyle="Light" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>email</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A36DCD19-208A-4061-B9C2-918F80DA5A1A" controlTypeID="Icon" x="156" y="296" w="49" h="49" zOrder="6">
+      <color>4281597798</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D6C960F9-CC04-4B3E-8CDF-3F7AAE636B18" linkType="ltPageLink" isApplyIncludePage="False" title="Login">
+          <area shape="0" alt="" ID="{C5DDEFFF-EFEB-4AEA-8CD6-08445A8DF6DD}" coords="(0,0,49,49)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62325</iconCode>
+      </icon>
+      <URL>83DD69C47E6D1466D54371E396D6F349.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

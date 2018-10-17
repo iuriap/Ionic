@@ -1,0 +1,130 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="9E380EE1-7543-4A05-A0A6-445C86E4B588" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="19">
+    <control controlID="AD03C905-4790-41DF-8660-B5D9DDCD4672" controlTypeID="Image" x="0" y="0" w="360" h="640" zOrder="0">
+      <URL>2012986DEA9041751601B5EB4F97D7A7.jpg</URL>
+    </control>
+    <control controlID="872ABDD3-6CC6-44B0-8625-FFC6A2EDDC75" controlTypeID="Circle" x="136" y="44" w="88" h="88" zOrder="1">
+      <color>4294111986</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="1DDC82D4-E4DC-4397-A0BA-B8916EA85C27" controlTypeID="Shape" x="0" y="20" w="360" h="85" zOrder="2">
+      <color>4294111986</color>
+      <borderColor>4288282470</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7AA6BDA8-A093-46E6-9B26-9B9F8D79D55A" controlTypeID="Image" x="152" y="23" w="57" h="77" zOrder="3">
+      <URL>E32025FAE63D0E78A0A6B9B2B7099178.png</URL>
+    </control>
+    <control controlID="17CF5E76-003E-4D5F-A9A4-919538AF42CD" controlTypeID="NavigationBar" x="0" y="592" w="360" h="48" zOrder="4"/>
+    <control controlID="E5939CEE-16EB-4260-A9DD-6D70C6C7519F" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="5"/>
+    <control controlID="F6ECA32B-DBE0-4479-9733-BDE47AE5918B" controlTypeID="Icon" x="156" y="524" w="49" h="49" zOrder="6">
+      <color>4281597798</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D6C960F9-CC04-4B3E-8CDF-3F7AAE636B18" linkType="ltPageLink" isApplyIncludePage="False" title="Login">
+          <area shape="0" alt="" ID="{C5DDEFFF-EFEB-4AEA-8CD6-08445A8DF6DD}" coords="(0,0,49,49)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62325</iconCode>
+      </icon>
+      <URL>83DD69C47E6D1466D54371E396D6F349.svg</URL>
+    </control>
+    <control controlID="CF946C33-187D-4A58-B33E-7176166F2B2B" controlTypeID="ScrollView" x="0" y="132" w="347" h="373" zOrder="7">
+      <color>16777215</color>
+      <borderColor>6710886</borderColor>
+      <groupChildrenDescriptors>
+        <control controlID="316A7878-2376-4F84-A276-FF5422521802" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="347" h="429" zOrder="0">
+          <alias>contentPanel</alias>
+          <groupChildrenDescriptors>
+            <control controlID="B02F136A-54B1-4560-9F5D-3BB6D90283E5" controlTypeID="TextInput" x="10" y="69" w="320" h="39" zOrder="0">
+              <font family="Roboto+Light" displayName="Roboto+Light" postScript="" weightStyle="Light" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Email</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="64A4CCEE-533C-46F9-A8CF-5E7DDC38316C" controlTypeID="TextInput" x="10" y="10" w="320" h="39" zOrder="1">
+              <font family="Roboto+Light" displayName="Roboto+Light" postScript="" weightStyle="Light" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Nome</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="B59DCEC3-77AE-4C2C-8E7C-B1AA403B20C9" controlTypeID="DateTimePicker" x="10" y="216" w="320" h="39" zOrder="2">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+              <text>03+%2F+10+%2F+1991</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="A677A009-B841-456B-965B-6D2D60CD2C0C" controlTypeID="Label" x="10" y="179" w="170" h="27" zOrder="3">
+              <font family="Roboto+Thin" displayName="Roboto+Thin" postScript="" weightStyle="Thin" weight="250" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Data+de+Nascimento</text>
+              <textColor>4294111986</textColor>
+              <textSize>20</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="FDD9FF17-650C-4563-B868-C4E9436AAB77" controlTypeID="TextInput" x="10" y="304" w="320" h="39" zOrder="4">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+              <text>123456</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <inputModel>emPassword</inputModel>
+            </control>
+            <control controlID="84A07D54-B09B-4067-8A6D-46F78A074C4C" controlTypeID="Label" x="10" y="267" w="76" h="27" zOrder="5">
+              <font family="Roboto+Thin" displayName="Roboto+Thin" postScript="" weightStyle="Thin" weight="250" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Password</text>
+              <textColor>4294111986</textColor>
+              <textSize>20</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="3D4BAEE6-A80A-4710-ACD5-17F155BFF1D6" controlTypeID="Label" x="10" y="353" w="149" h="27" zOrder="6">
+              <font family="Roboto+Thin" displayName="Roboto+Thin" postScript="" weightStyle="Thin" weight="250" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Repita+a+Password</text>
+              <textColor>4294111986</textColor>
+              <textSize>20</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="8770E997-329C-4F57-96A9-D46ECA61693E" controlTypeID="TextInput" x="10" y="390" w="320" h="39" zOrder="7">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+              <text>123456</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <inputModel>emPassword</inputModel>
+            </control>
+            <control controlID="73295DED-9789-4EA7-A6E9-EB39095CEB52" controlTypeID="TextInput" x="10" y="130" w="320" h="39" zOrder="8">
+              <font family="Roboto+Light" displayName="Roboto+Light" postScript="" weightStyle="Light" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Morada</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="6BB7639D-8E1A-47CE-93D6-D946EB234D2B" controlTypeID="Border" x="0" y="0" w="347" h="373" zOrder="1">
+          <color>4284900966</color>
+          <borderColor>6710886</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
